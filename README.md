@@ -1,2 +1,2 @@
-# FSecurity
-Projeto desenvolvido para a a empresa F Security
+# F Security
+Projeto desenvolvido para a empresa F Security
